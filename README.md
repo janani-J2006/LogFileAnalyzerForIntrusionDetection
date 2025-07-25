@@ -28,3 +28,6 @@ A Python-based tool that parses Apache and SSH logs to detect brute-force attemp
 ## 🚀 Run Instructions:
 ```bash
 python3 log_analyzer.py
+
+## Conclusion:
+This project gave me hands-on experience in log analysis, an essential skill for cybersecurity roles. I learned how attackers leave traces in logs and how scripting can help automate the detection of such threats. This can be a building block for future SIEM or IDS tools.
